@@ -1,0 +1,11 @@
+{
+  "name": "@aswinsparky/api",
+  "version": "1.5.3",
+  "description": "Official Fetcher for Neoxr API",
+  "main": "index.js",
+  "author": "Wildan Izzudin",
+  "license": "MIT",
+  "dependencies": {
+    "axios":"~0.24.0"
+  }
+}
