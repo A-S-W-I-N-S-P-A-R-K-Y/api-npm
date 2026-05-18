@@ -1,11 +1,11 @@
 {
   "name": "@aswinsparky/api",
-  "version": "1.5.3",
-  "description": "Official Fetcher for Neoxr API",
+  "version": "1.0.0",
+  "description": "Official Fetcher for AswinSparky API",
   "main": "index.js",
-  "author": "Wildan Izzudin",
+  "author": "Aswin Sparky",
   "license": "MIT",
   "dependencies": {
-    "axios":"~0.24.0"
+    "undici": "^6.11.2"
   }
 }

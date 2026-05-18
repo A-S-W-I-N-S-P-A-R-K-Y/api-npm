@@ -1,3 +1,5 @@
+const fetch = require("undici");
+
 const headers = {
     "Sparky-Api-Key": process.env.SPARKY_API_KEY,
     "Accept": "application/json"
